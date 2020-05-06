@@ -1,5 +1,5 @@
 # azure-log-analytics-data-collector PHP Client
-Azure Log Analytics Data Collector API Client for PHP. The probject was originally started in a repository, [azure-log-analytics-data-collector](https://github.com/yokawasa/azure-log-analytics-data-collector), then moved here as a dedicated repository for PHP client.
+[Azure Log Analytics Data Collector API](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-collector-api) Client libraries for PHP. The probject was originally started in a repository, [azure-log-analytics-data-collector](https://github.com/yokawasa/azure-log-analytics-data-collector), then moved here as a dedicated repository for PHP client.
 
 ## Quickstart
 Git clone this repository
